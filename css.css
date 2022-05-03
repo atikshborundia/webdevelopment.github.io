@@ -1,0 +1,84 @@
+<style>
+        .content{color: darkorange;
+        font-size: 95px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: cornflowerblue;
+        border-color: rgba(248, 234, 34, 0.829);
+        border-style: solid ;
+        border-width: 12px;
+        padding: 2px;} 
+
+        h100{color: rgba(0, 181, 252, 0.938);
+        font-size: 100px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: yellow;
+        border-color: rgb(122, 198, 233);
+        border-style: solid ;
+        border-width: 15px;
+        padding: 1px;}
+
+         ul{color: blue;
+        font-family: 'Dosis', sans-serif;
+        font-size: 26px;
+        background-color: peachpuff;
+        }
+
+        .link{color: lightcoral;
+        font-size: 45px;
+        font-family: Arial, Helvetica ;
+        background-color: aquamarine;
+        padding: 0px 1px 2px 0px;}
+
+        .subheads{color: tomato;
+        font-size: 29px;
+        font-family: 'Exo', sans-serif;
+        background-color: beige;
+        padding: 0px 1px 2px 0px;
+        margin: 25px 0px 0px 0px}
+        .border_index{border-color: rgba(238, 22, 94, 0.315);
+        border-style: solid ;
+        border-width: 09px}
+        #image{color: tomato;
+        font-size: 29px;
+        font-family: 'Exo', sans-serif;
+        background-color: beige;
+        padding: 0px 1px 2px 0px;
+        margin: 7px 0px 0px 0px}
+        #html1{color: rgba(28, 74, 133, 0.897);
+        font-size: 85px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(237, 100, 100);
+        border-color: rgba(252, 241, 98, 0.829);
+        border-style: solid ;
+        border-width: 11px;
+        padding: 2px;}
+        #html{color: rgba(28, 74, 133, 0.897);
+        font-size: 85px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(237, 100, 100);
+        border-color: rgba(252, 241, 98, 0.829);
+        border-style: solid ;
+        border-width: 11px;
+        margin-top: 5px;
+        margin-bottom: 3px;}
+        .freecodecamp{color: rgba(73, 30, 143, 0.897);
+        font-size: 65px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(53, 241, 169);
+        border-color: rgba(243, 60, 60, 0.829);
+        border-style: solid ;
+        border-width: 11px;
+        margin-top: 5px;
+        margin-bottom: 3px;}
+        h210{color: rgba(255, 0, 106, 0.918);
+        font-size: 45px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        background-color: rgb(53, 241, 169);
+        border-color: rgba(230, 86, 42, 0.829);
+        border-style: solid ;
+        border-width: 11px;
+        margin-top: 5px;
+        margin-bottom: 3px;}
+        
+        
+    </style>
